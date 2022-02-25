@@ -1,0 +1,662 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and exact account of the regiments of horse and foot in the service of Their Majesties King William and Queen Mary and also an account of the Irish forces under the late King James / written by a late captain of foot in the Lord Castleton's regiment in England, now at Lisburn in Ireland, to his friend in London. Together with a prefect relation of the most remarkable actions lately there, and particularly since the wounding of Colonel Owsley, in a letter from Lisburn of the 26th of May 1690.</title>
+            <author>Late captain of foot in the Lord Castleton's regiment.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63357</idno>
+            <idno type="STC">Wing T2429A</idno>
+            <idno type="STC">ESTC R25680</idno>
+            <idno type="EEBO-CITATION">09062087</idno>
+            <idno type="OCLC">ocm 09062087</idno>
+            <idno type="VID">42365</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42365)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and exact account of the regiments of horse and foot in the service of Their Majesties King William and Queen Mary and also an account of the Irish forces under the late King James / written by a late captain of foot in the Lord Castleton's regiment in England, now at Lisburn in Ireland, to his friend in London. Together with a prefect relation of the most remarkable actions lately there, and particularly since the wounding of Colonel Owsley, in a letter from Lisburn of the 26th of May 1690.</title>
+                  <author>Late captain of foot in the Lord Castleton's regiment.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42365:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <head>
+               <hi>A True and Exact ACCOUNT</hi> Of the Regiments of Horſe and Foot in the Service of Their Majeſties King <hi>William</hi> and Queen <hi>Mary;</hi> and alſo an Account of the <hi>Iriſh</hi> Forces under the late King <hi>James.</hi> Written by a late Captain of Foot in the Lord <hi>Ca<g ref="char:EOLhyphen"/>ſtleton</hi>'s Regiment in <hi>England,</hi> now at <hi>Lisburn</hi> in <hi>Ireland,</hi> to his Friend in <hi>London.</hi> Together with a perfect Relation of the moſt Remarkable Actions lately there, and particularly ſince the Wounding of Colonel <hi>Owſley.</hi> In a Letter from <hi>Lisburn</hi> of the <hi>26<hi rend="sup">th.</hi>
+               </hi> of <hi>May, 1690.</hi>
+            </head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licens'd</p>
+                        <closer>
+                           <dateline>
+                              <date>June 3. 1690.</date>
+                           </dateline> 
+                           <signed>J. F.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <list>
+                  <head>A LIST of the <hi>ENGLISH</hi> ARMY.</head>
+                  <item>
+                     <list>
+                        <head>HORSE.</head>
+                        <item>PRinceſs <hi>Ann</hi>'s Regiment.</item>
+                        <item>The General's Regiment.</item>
+                        <item>Major General Sir <hi>John Lanier</hi>'s Reg.</item>
+                        <item>Lord <hi>Devonſhire</hi>'s Reg.</item>
+                        <item>Lord <hi>Delameer</hi>'s, now Coll. <hi>Ruſſel.</hi>
+                        </item>
+                        <item>Coll. <hi>Langſton</hi>'s Reg.</item>
+                        <item>Lord <hi>Hewet</hi>'s, now Coll. <hi>Byerly.</hi>
+                        </item>
+                        <item>Coll. <hi>Villers</hi>'s Reg.</item>
+                        <item>Coll. <hi>Coy</hi>'s Reg.</item>
+                        <item>Six Troops of Guards.</item>
+                        <item>Mr. <hi>Harbord</hi>'s Troop.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>DRAGOONS.</head>
+                        <item>Royal Regiment, Coll. <hi>Hefford</hi>'s.</item>
+                        <item>Coll. <hi>Leviſton</hi>'s Regiment.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>FOOT.</head>
+                        <item>PRinceſs <hi>Ann</hi>'s Regiment.</item>
+                        <item>Lieut. General <hi>Dowglaſs</hi>'s Reg.</item>
+                        <item>Major General <hi>Kirk</hi>'s Reg.</item>
+                        <item> 
+                           <list>
+                              <head>Iniskilling.</head>
+                              <item>Coll. <hi>Owſley</hi>'s Reg. of Horſe,</item>
+                              <item>Coll. <hi>Winn</hi>'s Reg. of Drag.</item>
+                              <item>Coll. <hi>Conningham</hi>'s R. of Dr.</item>
+                           </list>
+                        </item>
+                        <item>
+                           <list>
+                              <head>
+                                 <hi>Iniskilling</hi> Foot.</head>
+                              <item>Lord <hi>George Hamilton</hi>'s Reg,</item>
+                              <item>
+                                 <hi>Guſtavus Hamilton</hi>'s Reg. </item>
+                              <item>Coll. <hi>Tiffin</hi>'s Reg.</item>
+                           </list>
+                        </item>
+                        <item>
+                           <list>
+                              <head>
+                                 <hi>Derry</hi> Foot.</head>
+                              <item>Coll. <hi>Michelburn</hi>'s Reg.</item>
+                              <item>Coll. <hi>White</hi>'s Reg.</item>
+                              <item>Coll. St. <hi>John</hi>'s Reg.</item>
+                           </list>
+                        </item>
+                        <item>Coll. <hi>Beaumont</hi>'s Reg.</item>
+                        <item>Brigadeer's, Sir <hi>John Hanmor.</hi>
+                        </item>
+                        <item>Brigadeer, <hi>Steward.</hi>
+                        </item>
+                        <item>Coll. <hi>Babington</hi>'s Reg.</item>
+                        <item>Sir <hi>Hen. Bellaſis</hi>'s Reg.</item>
+                        <item>Coll. <hi>Carleſton</hi>'s Reg.</item>
+                        <item>Coll. <hi>Deering</hi>'s Reg.</item>
+                        <item>Earl of <hi>Drogheda</hi>'s Reg.</item>
+                        <item>Coll. <hi>Erle</hi>'s Reg.</item>
+                        <item>Coll. <hi>Floyd</hi>'s Reg.</item>
+                        <item>Coll. <hi>Fowlk</hi>'s Reg.</item>
+                        <item>Coll. <hi>Grebins</hi>'s Reg.</item>
+                        <item>Coll. <hi>Haſting</hi>'s Reg.</item>
+                        <item>Coll. <hi>Herbert</hi>'s Reg.</item>
+                        <item>Lord <hi>Kingſton</hi>'s Reg.</item>
+                        <item>Lord <hi>Lisburn</hi>'s Reg.</item>
+                        <item>Earl of <hi>Meath</hi>'s Reg.</item>
+                        <item>Coll. <hi>Trelawny</hi>'s Reg.</item>
+                        <item>Coll. <hi>Wharton</hi>'s, now <hi>Brewer</hi>'s Reg.</item>
+                        <item>Coll. <hi>Cutt</hi>'s Reg.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>The <hi>French</hi> and <hi>Dutch</hi> Guards.</head>
+                        <item>Coll. <hi>Lecallimot</hi>'s Regiment.</item>
+                        <item>Coll. <hi>Du Cambon</hi>'s Reg.</item>
+                        <item>Le <hi>Melonier</hi>'s Reg.
+<list>
+                              <item>Naſſau.</item>
+                              <item>Vitte.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Note.</hi> None of the <hi>Daniſh</hi> Horſe or Foot are here particularly incerted, which are 6000 Foot and 1000 Horſe.</p>
+            <p>Colonel <hi>Owſley,</hi> (ſince his Shot upon the Belly, and upon recovery) ſent out a Detachment of his Horſe ſeventeen miles into the <hi>Iriſh</hi> Quarters (beyond our Frontiers) who upon Sunday 18 Inſtant put to flight the <hi>Iriſh,</hi> and brought back Fourhunder'd Black Cattle, Three hunder'd Sheep and Lambs, and Eighty Horſe, whereof about Twenty fit to ſerve for Dragoons.</p>
+            <p>An Intelligence from <hi>Dublin</hi> informs, that the <hi>French</hi> have begun to Fire the Suburbs, in order to make the City more defenſive, and leſs obnoxious to our Incurſions and Bombs. 'Tis believed they will burn every place they deſert, on deſign to prevent our Winter Quarters near them in Houſes, and to enforce us to encamp, whereby the cold Weather might deſtroy our Army.</p>
+            <p>At preſent all Affairs wait the Kings Arrival, (which God grant ſafe and ſpeedy,) and then a method of marching will ſoon follow.</p>
+            <p>
+               <pb facs="tcp:42365:2"/>
+               <!-- PDF PAGE 115 -->
+               <table>
+                  <row>
+                     <cell role="label">Horſe.</cell>
+                     <cell role="label">Troops.</cell>
+                     <cell role="label">Men.</cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Tyrconnel</hi>
+                     </cell>
+                     <cell>9</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Galmoy</hi>
+                     </cell>
+                     <cell>9</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Sarsfield</hi>
+                     </cell>
+                     <cell>9</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Sutherland</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Abercorn</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Col <hi>Hen. Luttrel</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>John Parker</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Nich. Purſel</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">69</cell>
+                     <cell role="total">3450</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>DRAGOONS.</cell>
+                     <cell>Troops.</cell>
+                     <cell>Men.</cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Dungan</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>N. O. Neal</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Den. Obryan</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Simon Luttrel</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Clifford</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>James Cotters</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Maxwell</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">74</cell>
+                     <cell role="total">3800</cell>
+                  </row>
+                  <row>
+                     <cell>Troop of Guards commanded by the Lord <hi>Dover</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>200</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">FOOT.</cell>
+                     <cell role="label">Comp.</cell>
+                     <cell role="label">Men.</cell>
+                  </row>
+                  <row>
+                     <cell>A Reg. of Foot Guards.</cell>
+                     <cell>20</cell>
+                     <cell>90</cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Montcaſtle</hi>'s Reg.</cell>
+                     <cell>13</cell>
+                     <cell>92</cell>
+                  </row>
+                  <row>
+                     <cell>Earl <hi>Clencarty,</hi> Ditto.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Fitz James</hi> Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>John Hamilton</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Clenricart</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Earl of <hi>Antrim</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Earl <hi>Tyrone</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Garmongſtone</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Clark</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Galway</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Slaney</hi>'s Reg. <hi>ditto.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Duleck</hi>'s Reg.</cell>
+                     <cell>13</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Kilmore</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Fitz-gerard</hi>'s Reg. <hi>ditto.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Morriee Euſter</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>William Nugent</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Henry Dillun</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>John Graſe</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Richard Butler</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Edward Butler</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Thomas Butler</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Jo. Bowker,</hi> now Lord <hi>Boylen</hi>'s R.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Charles Moor's</hi> Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Carmac Oneal</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Art. M. Mehan,</hi> Earl of <hi>Weſt Meath</hi>'s R.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Charles Cavenah</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Charles Macalamoor</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Gerard Oneal</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Neal Brown</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>John Barret</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Dan. O Danavan</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Olives O Gara</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Mic. Creagh,</hi> L. Mayor of <hi>Dublin</hi>'s R.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Dan. Brown</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Dudley Bagnal</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Charles O Brian</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Roger Mac Elliot</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Killmallox</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lord <hi>Iveagh</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>John Brown</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Edward Nugent</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>M. Mahan</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Edward Reyley</hi>'s Reg.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Col. <hi>Fielding</hi>'s Reg. <hi>ditto.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Horſe</cell>
+                     <cell>3450</cell>
+                  </row>
+                  <row>
+                     <cell>Drgoons</cell>
+                     <cell>3800</cell>
+                  </row>
+                  <row>
+                     <cell>Horſe-Guards</cell>
+                     <cell>00200</cell>
+                  </row>
+                  <row>
+                     <cell>Foot Guards</cell>
+                     <cell>01800</cell>
+                  </row>
+                  <row>
+                     <cell>Foot</cell>
+                     <cell>37882</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Total</cell>
+                     <cell role="total">97132</cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>Disbanded.</head>
+               <item>Major General <hi>Boyſloe</hi>'s Reg.</item>
+               <item>Lord <hi>Caſtle Connal</hi>'s Reg.</item>
+               <item>Coll. <hi>Rog. O Connel</hi>'s Reg.</item>
+               <item>Coll. <hi>Ch. Geohagan</hi>'s Reg.</item>
+               <item>Coll. <hi>Many O Donnel</hi>'s Reg.</item>
+               <item>Coll. <hi>Jam. Butler</hi>'s Reg.</item>
+               <item>Coll. <hi>Rog. O Cahan</hi>'s Reg.</item>
+               <item>Coll. <hi>Ch. Kelly</hi>'s Reg.</item>
+               <item>Coll. <hi>Bryan Mac Dermot</hi>'s Reg.</item>
+               <item>Coll. <hi>Jam. Talbot</hi>'s Reg.</item>
+               <item>Sir <hi>
+                     <g ref="char:V">Ʋ</g>lick Bourk</hi>'s Reg.</item>
+               <item>Sir <hi>Edw. Scot</hi>'s <hi>R.</hi> Col. <hi>Miles O Reyley</hi>'s R</item>
+            </list>
+            <p>The Quarters of the Army uncertain, being every day rowling, &amp; much ſcatter'd.</p>
+            <p>Note, Tho each Troop and Company are ſaid to have the foregoing Numbers. of Men, yet few or none are full; neither have they Arms for near the Number, and many are arm'd with Scythes</p>
+            <p>The <hi>French</hi> Recruits, Landed this Spring, are not incerted.</p>
+            <p>But 'tis obſervable, That the <hi>Iriſh</hi> and <hi>French</hi> cannot march into Field with this Number, nor Encamp, becauſe by all reaſonable Conjecture, their Garriſons will require, <hi>VIZ. Dublin</hi> 7000. <hi>Drogheda</hi> 3000. <hi>Cork</hi> 1000 <hi>Kingſail</hi> 3000. <hi>Limerick</hi> 2000. <hi>Galway</hi> 2000. <hi>Athlone</hi> 2000.</p>
+            <p>Alſo their Policy is to defer the War upon a Defence; hoping the Braſs Pay will exhauſt the <hi>Engliſh</hi> Current Coyn.</p>
+            <p>The Keys of <hi>Dublin</hi> are in <hi>French</hi> Hands: The Bomb-Carts and Carriages Painted with <hi>Flower de Luces.</hi> So that the Diſtinction is not ſo much <hi>William</hi> and <hi>James,</hi> as <hi>England</hi> and <hi>France,</hi> or <hi>Proteſtant</hi> and <hi>Papiſt.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor</hi> near <hi>Stationers</hi> Hall. 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
